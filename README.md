@@ -23,6 +23,8 @@ Real Waveshaper drive and bitcrusher
 Stereo delay with feedback + convolution reverb
 Master compressor and voice stealing (max 8 simultaneous notes)
 
+<img width="1313" height="792" alt="image" src="https://github.com/user-attachments/assets/cb61a0de-ea4a-435a-8565-6a16c8bc38d7" />
+
 🎹 Playing
 On-screen 25-key keyboard (drag for glissando, touch-friendly)
 Computer keyboard mapping (AZERTY & QWERTY compatible)
@@ -95,12 +97,3 @@ Drag up/down	Adjust value
 Mouse wheel	Fine steps
 Shift + drag	Precision mode
 Double-click	Reset to default
-
-🔬 Technical Highlights
-100% Web Audio API — oscillators, BiquadFilters, WaveShaper curves, ConvolverNode, DynamicsCompressor, OfflineAudioContext
-Exotic waveforms generated with createPeriodicWave from hand-crafted harmonic tables
-Deterministic audio: reverb impulse response, random LFO and noise buffers are generated with a seeded PRNG (mulberry32) so live playback and offline export are identical
-Anti-click engineering: cancelAndHoldAtTime with analytic envelope reconstruction fallback, guaranteed decay-to-silence before oscillator stops, click-free gain automation everywhere
-Sample-accurate sequencer: lookahead scheduler (120 ms) driven by the audio clock, not setTimeout
-Memory-safe: voice lifecycle tracking, ended-voice purging, scheduled-voice cancellation, curve caching
-Chrome-tier robustness: audio context wake-up after mobile interruptions, cross-tab focus handling, legacy Safari fallback
