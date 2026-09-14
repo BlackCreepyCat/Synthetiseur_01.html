@@ -36,14 +36,14 @@ chaining, a tape recorder with bit-perfect WAV export, an oscilloscope, spectrum
 
 Category
 Highlights
-🌿 NATURE	Cricket, Frog, Whale Song, Birdsong, Zephyr, Thunder, Sonar
-👾 RETRO	Arcade Coin, 8-Bit Jump, Game Over, Power-Up, Casio 1985, Modem 56K, Moog 74
-🎬 CINEMA	Suspense drone, Terror Sting, Epic Braaam, Shimmer, Nuke Siren
-🛸 SFX	UFO, Invader, Laser, Bubble, Robot, Plasma
-🎸 BASS	Acid 303, Wobble, Growl Sub, Reez
-🚀 LEADS	Crystal Pluck, Shrill Lead, Alien Flute, Haunted Organ
-☁️ PADS	Ghost, Dream, Angelic Choir, Neon Drone
-🥁 DRUMS	Deep Kick, Noisy Snare, Ghost Hat, Cinema Boom
+- NATURE	Cricket, Frog, Whale Song, Birdsong, Zephyr, Thunder, Sonar
+- RETRO	Arcade Coin, 8-Bit Jump, Game Over, Power-Up, Casio 1985, Modem 56K, Moog 74
+- CINEMA	Suspense drone, Terror Sting, Epic Braaam, Shimmer, Nuke Siren
+- SFX	UFO, Invader, Laser, Bubble, Robot, Plasma
+- BASS	Acid 303, Wobble, Growl Sub, Reez
+- LEADS	Crystal Pluck, Shrill Lead, Alien Flute, Haunted Organ
+- PADS	Ghost, Dream, Angelic Choir, Neon Drone
+- DRUMS	Deep Kick, Noisy Snare, Ghost Hat, Cinema Boom
 
 The currently selected patch shows a lit LED indicator. Your own tweaked settings can be saved to the browser (💾 SAVE THIS PATCH).
 
