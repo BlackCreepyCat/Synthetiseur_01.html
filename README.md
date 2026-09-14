@@ -46,6 +46,8 @@ Highlights
 - PADS	Ghost, Dream, Angelic Choir, Neon Drone
 - DRUMS	Deep Kick, Noisy Snare, Ghost Hat, Cinema Boom
 
+<img width="1271" height="941" alt="image" src="https://github.com/user-attachments/assets/c09195c9-8121-41d9-8a92-32e2504b718b" />
+
 The currently selected patch shows a lit LED indicator. Your own tweaked settings can be saved to the browser (💾 SAVE THIS PATCH).
 
 🎼 Sequencer
