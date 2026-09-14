@@ -1,16 +1,17 @@
-🎛️ WEIRD-01 — Experimental Web Synthesizer
-A full-featured polyphonic synthesizer, sequencer and tape recorder running entirely in your browser. One HTML file. Zero dependencies. Zero installs.
+🎛️ WEIRD-01: Experimental Web Synthesizer
+A full-featured polyphonic synthesizer, sequencer and tape recorder running entirely in your browser. 
+One HTML file. Zero dependencies. Zero installs.
 
 Version License Audio
 
 WEIRD-01 is a self-contained experimental synthesizer built as a single HTML file. Open it in any modern browser, hit POWER ON, and you have a complete music studio:
-two oscillators with exotic waveforms, a resonant filter, LFO modulation, drive & bitcrusher, stereo delay, convolution reverb, a 16-step sequencer with pattern 
-chaining, a tape recorder with bit-perfect WAV export, an oscilloscope, spectrum analyzer and stereo PPM, all wrapped in a retro studio-rack interface with three switchable skins.
+- Two oscillators with exotic waveforms, a resonant filter, LFO modulation, drive & bitcrusher
+- Stereo delay, convolution reverb, a 16-step sequencer with pattern chaining, a tape recorder with bit-perfect WAV export
+- An oscilloscope, spectrum analyzer and stereo PPM, all wrapped in a retro studio-rack interface with three switchable skins.
 
 <img width="881" height="1060" alt="image" src="https://github.com/user-attachments/assets/7375bbeb-3bdc-4c53-a430-906d6085130e" />
 
-✨ Features
-🔊 Synthesis Engine
+✨ Features: Synthesis Engine
 - 2 oscillators with 10 waveforms: 4 classic (Sine, Square, Saw, Triangle) + 6 exotic waveforms built from additive harmonic tables (Alien, Bell, Vox, Metal, Demon, Chaos)
 - Unison per oscillator (1–4 detuned voices with spread control)
 - Noise generator (white / pink, Paul Kellet filter)
